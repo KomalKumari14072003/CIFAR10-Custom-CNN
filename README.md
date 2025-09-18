@@ -29,7 +29,7 @@ The model is trained from scratch using deep learning techniques to achieve imag
 ---
 
 ## 📊 Results
-- Achieved ~XX% accuracy on CIFAR-10 test dataset.  
+- Achieved 82% accuracy on CIFAR-10 test dataset.  
 - Model performance visualized with confusion matrix & accuracy/loss curves.  
 
 ---
